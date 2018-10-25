@@ -11,9 +11,6 @@ int main() {
         }
         for (i = 0; i < tamanho; i++) {
             for (j = 0; j < tamanho; j++) {
-                if (i == 0 || j == 0 || i == (tamanho - 1) || j == (tamanho - 1)) {
-                    matriz[i][j] = 0;
-                }
                 if (i == j) {
                     matriz[i][j] = 2;
                 }
