@@ -1,4 +1,8 @@
-## Some benefits of Competitive Programming
+## Competitive Programming
+
+<p align="center">
+   <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/programming_01_0.jpg?itok=E9O6x1LD" width="450">
+</p>
 
 * **[5 Career Benefits of Competitive Programming](https://blog.edx.org/5-career-benefits-of-competitive-programming)**  
 
