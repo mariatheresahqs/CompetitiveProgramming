@@ -4,6 +4,10 @@
    <img src="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/programming_01_0.jpg?itok=E9O6x1LD" width="450">
 </p>
 
+* **[Competitive Programming - Where Computer Geeks become Gladiators](https://www.thedailystar.net/shout/cover-story/competitive-programming-where-computer-geeks-become-gladiators-1222453)**
+
+Competitive programming is similar to quiz contests. Here a team or individual is given a number of mathematical and logical problems to solve using any programming language allowed by the host. The competition can span from just a few hours to even months. The categories of problems cover many mathematical concepts like data structures, graphs, number theory, dynamic programming, string processing, algebra, geometry and much more. The competitions take place online – on both local and global networks. The team that solves the most problems earliest with the least erroneous submissions wins. There can also be other criteria of point distribution such as the efficiency of the algorithm, size of the code and many more.
+
 * **[5 Career Benefits of Competitive Programming](https://blog.edx.org/5-career-benefits-of-competitive-programming)**  
 
 Training and taking part in programming contests make you more and more disciplined, faster and focused coder.
