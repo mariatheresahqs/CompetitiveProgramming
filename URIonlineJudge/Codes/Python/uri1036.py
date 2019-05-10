@@ -1,16 +1,13 @@
 import math
-a, b, c = input().split(" ")
+nCasos = int(input())
+for i in range(nCasos):
+    a, b, c = map(int, input().split())
+    bsk = (b*b - 4*a*c)
 
-a = float(a)
-b = float(b)
-c = float(c)
+    r1 = (-b - math.sqrt(bsk))/(2*a)
+    r2 = (-b + math.sqrt(bsk))/(2*a)
 
-bsk = (pow(b, 2) - 4*a*c)
+    xMedio = (r1+r2)/2
+    altura = xMedio*xMedio*a + xMedio*b + c
 
-if ( bsk < 0) or (a ==0):
-    print("Impossivel calcular")
-
-else:
-    r2 = (-b - math.sqrt(bsk))/(2*a)
-    r1 = (-b + math.sqrt(bsk))/(2*a)
-    print("R1 = {:.5f}\nR2 = {:.5f}".format(r1, r2))
+    print("{:.2f}".format(altura))
