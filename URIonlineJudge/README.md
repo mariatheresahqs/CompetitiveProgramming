@@ -2,7 +2,7 @@
 My solutions to problems from www.urionlinejudge.com.br. The solutions are mainly in C, with a few in Python.
 
 <p align="center">
-  <img src="https://scontent.fudi1-2.fna.fbcdn.net/v/t1.0-9/15037089_730572337107377_1557755083096177429_n.png?_nc_cat=111&_nc_eui2=AeGZCRXrm2pNWJ38eZEdTj2WmLehQQiUUlXe0bxSZFrBSMRiktCIKQ7r7B13byP9yQJnaZfYYU9C0mQDpz9jrW473fx3mulcT8tVu0zLsprO_g&_nc_ht=scontent.fudi1-2.fna&oh=bfd2dda31ef149f6dae1accdec87be8f&oe=5C6DD433" width="350">
+  <img src="https://github.com/mariatheresahqs/CompetitiveProgramming/blob/master/URIonlineJudge/logo-urionlinejudge.png" width="350">
 </p>
 
 
