@@ -1,5 +1,5 @@
 # URI-Solutions
-My solutions to problems from www.urionlinejudge.com.br. The solutions are mainly in C, with a few in Python.
+Solutions to problems from www.urionlinejudge.com.br. The solutions are mainly in C, with a few in Python.
 
 <p align="center">
   <img src="https://github.com/mariatheresahqs/CompetitiveProgramming/blob/master/URIonlineJudge/logo-urionlinejudge.png" width="350">
